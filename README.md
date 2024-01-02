@@ -20,11 +20,13 @@
   Stacks que utilizo para realização dos meus estudos e projetos:
   
   <div align="center">
-      <img src="https://camo.githubusercontent.com/b3904dc72cb7b7c70cbd7d8f08420fc5bbf08ef606b1a71891b8a097670873e1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f67697068792e676966" width="85px" height="70px">
-      <img src="https://camo.githubusercontent.com/72fd54faa8a39aed97354ea788e55524a47c30e1da23dd321331260ab133a2b5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f67697068792e676966" width="85px" height="70px">
+      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="85px" height="70px">
+      <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="85px" height="70px">
       <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="85px" height="70px">
+      <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="85px" height="70px">
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="65px" height="70px">
       <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="100px" height="70px">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="85px" height="70px">
   </div> 
   
   ## 📱 Mídias Sociais :
