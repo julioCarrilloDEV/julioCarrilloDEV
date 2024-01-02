@@ -26,7 +26,6 @@
       <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="85px" height="70px">
       <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="65px" height="70px">
       <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" width="100px" height="70px">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="85px" height="70px">
   </div> 
   
   ## 📱 Mídias Sociais :
