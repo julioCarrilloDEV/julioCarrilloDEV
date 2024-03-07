@@ -5,13 +5,13 @@
 </p>
 
 ## 💭 Sobre :
- - Me chamo **Julio Cesar**, tenho **19 anos** e atualmente resido em **Lins-SP**;
- - Estou cursando o *3º semestre* em **Análise e Desenvolvimento de Sistemas**, pela **Fatec Lins**;
+ - Me chamo **Julio Cesar**, tenho **20 anos** e atualmente resido em **Lins-SP**;
+ - Estou cursando o *5º semestre* em **Análise e Desenvolvimento de Sistemas**, pela **Fatec Lins**;
  - Sou formado como **Técnico em Desenvolvimentos de Sistemas** pela Etec de Lins;
  - Atuo como **Suporte de TI** pela **Unimed de Lins**;
  - Apaixonado por programação desde os 16 anos e sempre curioso por tudo o que há de novo em ciência e tecnologia. 
 
-## 🎯 Metas para 2023:
+## 🎯 Metas para 2024:
  - 📂 Expandir meu portfólio seja com projetos da empresa ou pessoais;
  - 📊 No momento busco me aperfeiçoar em **JavaScript** <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/187_Js-1024.png" width="18px">,**Node** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="30px">, **Java** <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="36px"> e **MySQL** <img src="https://i1.wp.com/www.techspace.fr/wp-content/uploads/2016/12/b_1_q_0_p_0.png" width="30px">
  
