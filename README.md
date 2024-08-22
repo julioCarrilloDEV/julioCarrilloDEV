@@ -5,8 +5,8 @@
 </p>
 
 ## 💭 Sobre :
- - Me chamo **Julio Cesar**, tenho **20 anos** e atualmente resido em **Lins-SP**;
- - Estou cursando o *5º semestre* em **Análise e Desenvolvimento de Sistemas**, pela **Fatec Lins**;
+ - Me chamo **Julio Cesar**, tenho **21 anos** e atualmente resido em **Lins-SP**;
+ - Estou cursando o *6º semestre* em **Análise e Desenvolvimento de Sistemas**, pela **Fatec Lins**;
  - Sou formado como **Técnico em Desenvolvimentos de Sistemas** pela Etec de Lins;
  - Atuo como **Suporte de TI** pela **Unimed de Lins**;
  - Apaixonado por programação desde os 16 anos e sempre curioso por tudo o que há de novo em ciência e tecnologia. 
